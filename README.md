@@ -60,12 +60,3 @@ Join our discord server using the following link: https://discord.gg/YNYnNN5Pf2
 
 ## Telegram
 Join our telegram server using the following link: https://t.me/gorcurrency
-
-## Issue Tracker
-
-The [integrated github issue tracker](https://github.com/ixbaseANT/gord/issues)
-is used for this project.
-
-## Documentation
-
-The [documentation](https://github.com/ixbaseANT/docs) is a work-in-progress
