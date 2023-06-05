@@ -28,7 +28,7 @@ Go 1.18 or later.
 $ go version
 ```
 
-- Run the following commands to obtain and install kaspad including all dependencies:
+- Run the following commands to obtain and install gord including all dependencies:
 
 ```bash
 $ git clone https://github.com/ixbaseANT/gord
@@ -68,4 +68,4 @@ is used for this project.
 
 ## Documentation
 
-The [documentation](https://github.com/kaspanet/docs) is a work-in-progress
+The [documentation](https://github.com/ixbaseANT/docs) is a work-in-progress
